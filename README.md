@@ -5,9 +5,14 @@ like: Jxl Jar file for Handling Excel Sheets.
 Only the Java programs are uploaded.
 
 
-DragDropDemo: Program that demonstrates Drag & Drop
-FontProperties: Program that demonstrates to verify Font properties of a web element
+DragDropDemo: Program that demonstrates Drag & Drop.
+
+FontProperties: Program that demonstrates to verify Font properties of a web element.
+
 OrangeHRM: Program that demonstrates to login in to Orange HRM Demo Site.
+
 PopUpWindow: program that demonstrates to handle Popup Windows.
+
 VerifyRadioCheck: program that demonstrates to handle Radio and check buttons.
+
 WorkingOnExcel: program that demonstrates to handle Excel sheets in Selenium.
